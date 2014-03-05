@@ -1,4 +1,4 @@
 rattxt
 ======
 
-ratt public transport info
+ratt Timisoara public transport info

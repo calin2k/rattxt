@@ -1,0 +1,7 @@
+#lista statii
+http://ratt.ro/txt/select_statie.php
+#statia: "arta textila" mijloc: "E1" start: "pod sag"
+http://ratt.ro/txt/afis_msg.php?id_traseu=1550&id_statie=2690
+
+#statia: "pod sag" mijloc: "E1" start: "selgros"
+http://ratt.ro/txt/afis_msg.php?id_traseu=1550&id_statie=4504
